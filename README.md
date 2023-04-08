@@ -1,2 +1,2 @@
-# Simple-Greeting-1
+# Simple-Greeting-js
 nothing
